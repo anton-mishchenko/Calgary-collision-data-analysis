@@ -1,2 +1,2 @@
 # Calgary-collision-data-analysis
-Data analysis of weather on vehicle collision rates in the city of Calgary, AB, Canada
+Data analysis of the relationship between weather conditions and vehicle collision rates in the city of Calgary, AB, Canada.
